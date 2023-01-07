@@ -1,0 +1,36 @@
+# @format
+
+#Qatar
+
+- name: Ad Dawḩah
+  country_id: "634"
+  id: "QA-DA"
+  abbr: DOH
+- name: Al Khawr wa adh Dhakhīrah
+  country_id: "634"
+  id: "QA-KH"
+  abbr: KHD
+- name: Al Wakrah
+  country_id: "634"
+  id: "QA-WA"
+  abbr: WKR
+- name: Ar Rayyān
+  country_id: "634"
+  id: "QA-RA"
+  abbr: RYN
+- name: Ash Shamāl
+  country_id: "634"
+  id: "QA-MS"
+  abbr: SHM
+- name: Ash Shīḩānīyah
+  country_id: "634"
+  id: "QA-SH"
+  abbr: SYH
+- name: Az̧ Z̧a‘āyin
+  country_id: "634"
+  id: "QA-ZA"
+  abbr: AZZ
+- name: Umm Şalāl
+  country_id: "634"
+  id: "QA-US"
+  abbr: USL

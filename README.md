@@ -1,2 +1,5 @@
+<!-- @format -->
+
 # l10n_qa
-Qatar Setup
+
+Localization data for Qatar Setup

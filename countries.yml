@@ -1,0 +1,9 @@
+# @format
+---
+countries_101:
+  id: 634
+  name: Qatar
+  iso3: QAT
+  iso: QA
+  iso_name: QATAR
+  numcode: "634"
